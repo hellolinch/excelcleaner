@@ -35,7 +35,6 @@ Thumbs.db
 *.dat
 *.html
 *.json
-*.md
 
 # 忽略release目录下所有内容
 release/ 
