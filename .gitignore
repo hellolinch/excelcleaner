@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Electron打包输出
+release/
+*.log
+*.tmp
+.DS_Store
+
+# VSCode配置
+.vscode/
+
+# Mac系统文件
+.DS_Store
+
+# Windows系统文件
+Thumbs.db
+
+# 其他常见临时文件
+*.swp
+*.swo
+*.bak
+
+# Webpack缓存
+.cache/
+
+# 打包后资源
+*.exe
+*.dll
+*.bin
+*.pak
+*.dat
+*.html
+*.json
+*.md
+
+# 忽略release目录下所有内容
+release/ 
